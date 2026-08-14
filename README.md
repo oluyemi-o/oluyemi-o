@@ -1,4 +1,4 @@
-# 💫 Hi I'm Yemi:
+# 💫 Hi I'm Yemi
 👨‍💻 I'm a full stack web developer (React, Node.js, Express, MongoDB)<br>
 📚 I'm currently learning Three.js and Framer Motion<br>
 🚀 I'm currently working on a 3D portfolio site to showcase my projects<br>
