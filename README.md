@@ -26,5 +26,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=oluyemi-o&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
