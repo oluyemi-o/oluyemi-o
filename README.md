@@ -1,9 +1,9 @@
-# 💫 Hi I'm Yemi
-👨‍💻 I'm a full stack web developer (React, Node.js, Express, MongoDB)<br>
-📚 I'm currently learning Three.js and Framer Motion<br>
-🚀 I'm currently working on a 3D portfolio site to showcase my projects<br>
-📈 Background in Economics & Finance before switching into dev<br>
-🎓 Recently completed a full stack bootcamp and ready to put it to work
+#  Hi I'm Yemi
+ I'm a full stack web developer (React, Node.js, Express, MongoDB)<br>
+ I'm currently learning Three.js and Framer Motion<br>
+ I'm currently working on a 3D portfolio site to showcase my projects<br>
+ Background in Economics & Finance before switching into dev<br>
+ Recently completed a full stack bootcamp and ready to put it to work
 
 
 ## 🌐 Socials:
